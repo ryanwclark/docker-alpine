@@ -72,7 +72,7 @@ Clone this repository and build the image with `docker build <arguments> (imagen
 Builds of the image are available on [Docker Hub](https://hub.docker.com/ryanwclark/alpine) and is the recommended method of installation.
 
 ```bash
-docker pull tiredofit/alpine:(imagetag)
+docker pull ryanwclark/alpine:(imagetag)
 ```
 
 The following image tags are available along with their tagged release based on what's written in the [Changelog](CHANGELOG.md):
