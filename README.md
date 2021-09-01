@@ -21,10 +21,6 @@ Dockerfile to build an [alpine](https://www.alpinelinux.org/) linux container im
 * Logshipping capabilities
 * Ability to update User ID and Group ID permissions dynamically.
 
-## Maintainer
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 - [About](#about)
